@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.0.0/NowPlayingWidget-1.0.0.dmg" length="3575815" type="application/octet-stream" sparkle:edSignature="Lo2MVeT7K63HFtxMQjFX1wN1h+YLJnqsU1IzLa1LSrzB27+uVm+WJrebaHISM2w+CWgpUCH0oG5bUinkhPu8Cg=="/>
+            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.0.0/NowPlayingWidget-1.0.0.dmg" length="3575957" type="application/octet-stream" sparkle:edSignature="HlX0VK86cQoq3UQiOawDCGKwDOXVDucBIH009P12zXwObdIY//dtyNH2XXQJ1/RT2ntVEaaclABkF0d0pjmgBQ=="/>
         </item>
     </channel>
 </rss>
