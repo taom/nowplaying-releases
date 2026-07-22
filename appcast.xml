@@ -3,6 +3,15 @@
     <channel>
         <title>NowPlayingWidget</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Wed, 22 Jul 2026 00:11:16 -0700</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.2.0/NowPlayingWidget-1.2.0.dmg" length="3612831" type="application/octet-stream" sparkle:edSignature="McDAOetD/tGmLBEhJmp5yU9h4lolPYxtLihI4W2GR8zTb0wIl4zC81mHvPjrxVYjUN+exNhu8fDWuKQO1AboBw=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Tue, 21 Jul 2026 22:09:17 -0700</pubDate>
             <sparkle:version>1.1.1</sparkle:version>
@@ -22,15 +31,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.1.0/NowPlayingWidget1.1.0-1.0.0.delta" sparkle:deltaFrom="1.0.0" length="57106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ByPdJOepJuJnQfKyeKVRfv61E1v8Rn6I+8cyTt1kUEVkfNcOrXFMZJ1o/H6s1/Aid9ilZJi4ByJdZp2130l9Aw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Tue, 21 Jul 2026 13:25:17 -0700</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.0.0/NowPlayingWidget-1.0.0.dmg" length="3575957" type="application/octet-stream" sparkle:edSignature="HlX0VK86cQoq3UQiOawDCGKwDOXVDucBIH009P12zXwObdIY//dtyNH2XXQJ1/RT2ntVEaaclABkF0d0pjmgBQ=="/>
         </item>
     </channel>
 </rss>
