@@ -3,6 +3,15 @@
     <channel>
         <title>NowPlayingWidget</title>
         <item>
+            <title>1.3.5</title>
+            <pubDate>Fri, 02 Oct 2026 11:08:22 -0700</pubDate>
+            <sparkle:version>1.3.5</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.3.5/NowPlayingWidget-1.3.5.dmg" length="5846830" type="application/octet-stream" sparkle:edSignature="V5bRIqckGVdyKkNIKnWA89+fGOudJvNvwLcwh8RyYol7i1rww2zlK4F4RS1wdQWQoIHlCMtvpRZ6qk6j5+UEAg=="/>
+        </item>
+        <item>
             <title>1.3.2</title>
             <pubDate>Mon, 31 Aug 2026 12:12:23 -0700</pubDate>
             <sparkle:version>1.3.2</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.3.1/NowPlayingWidget-1.3.1.dmg" length="5502525" type="application/octet-stream" sparkle:edSignature="98d9wO8tYsZOmrP4LV6461H7fG5vRSw8/VROeWi5r6d80ZwFqlLtYraYPq/DPDMrSqLqvwUuB6r7PKMtGoLfAw=="/>
-        </item>
-        <item>
-            <title>1.3.0</title>
-            <pubDate>Mon, 27 Jul 2026 12:02:48 -0700</pubDate>
-            <sparkle:version>1.3.0</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.3.0/NowPlayingWidget-1.3.0.dmg" length="5473564" type="application/octet-stream" sparkle:edSignature="u6yfheZeNYh9OYQe+XwkZ2kk9aUiqy0B6gLRfRim4cWd0DoU70WHktoF0d/KDWM7WiSsBysGmFM1bRsQQcCNAQ=="/>
         </item>
     </channel>
 </rss>
