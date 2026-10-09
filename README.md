@@ -7,9 +7,6 @@ playing — Apple Music, Spotify, Tidal, Deezer, or any browser tab (YouTube, Ne
 in Safari, Chrome, Firefox, Edge, Arc, or Brave. It reads macOS's own system-level Now Playing
 layer, the same one Control Center uses, so there's nothing to configure per app.
 
-🌐 **[nowplaying.taoftware.com](https://nowplaying.taoftware.com)** — features, screenshots, and purchase
-⬇️ **[Latest release](https://github.com/taom/nowplaying-releases/releases/latest)** — signed and notarized DMG
-
 ## Features
 
 - Stays pinned on top of any app or Space
@@ -33,5 +30,4 @@ contain the app's source code, which lives in a private repository.
 
 ## License
 
-NowPlayingWidget is commercial software, sold at [nowplaying.taoftware.com](https://nowplaying.taoftware.com).
 This repo exists solely to distribute release binaries and updates.
