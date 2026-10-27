@@ -3,6 +3,15 @@
     <channel>
         <title>NowPlayingWidget</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Mon, 26 Oct 2026 22:32:58 -0700</pubDate>
+            <sparkle:version>1.6.0</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.6.0/NowPlayingWidget-1.6.0.dmg" length="6522121" type="application/octet-stream" sparkle:edSignature="lqmw2hPkJjGtijR/bekGCkn4keByoIHv6G3uCz3CCMf5ewg1A2Eioit8gY96hFB9SITMjulNWDT3mYRVYXKaAg=="/>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Tue, 20 Oct 2026 11:54:19 -0700</pubDate>
             <sparkle:version>1.5.0</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.4.2/NowPlayingWidget-1.4.2.dmg" length="6032027" type="application/octet-stream" sparkle:edSignature="ek8ZZsfOc/72gB8fZN7dVc9d7ltQX6wP1zIWUeQzS5SMa1EroQq1YLKCbqeLgaUZFWasPwhiZATaKS5iVhq4Cg=="/>
-        </item>
-        <item>
-            <title>1.4.1</title>
-            <pubDate>Sat, 10 Oct 2026 00:06:39 -0700</pubDate>
-            <sparkle:version>1.4.1</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/taom/nowplaying-releases/releases/download/v1.4.1/NowPlayingWidget-1.4.1.dmg" length="6017009" type="application/octet-stream" sparkle:edSignature="777bGISF/mWmqZ2MyAyzhz1a2iK0qqbFpJ9X6EPBcwclU8qa87ZBX4JEawWibrQePPNkgVk0lbpSPR+DL2VdDg=="/>
         </item>
     </channel>
 </rss>
